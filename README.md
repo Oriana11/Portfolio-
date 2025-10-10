@@ -2,7 +2,8 @@
 
 A clean, responsive portfolio website showcasing my software development projects and professional background.
 
-![Portfolio Preview](img/portfolio-preview.png)
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/e44addb3-2026-4020-8779-abb319f873ce" />
+
 
 ## Overview
 
